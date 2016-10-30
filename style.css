@@ -1,0 +1,56 @@
+html,
+body {
+  height: 100%;
+  background: #136a8a;
+  background: -webkit-linear-gradient(to left, #136a8a , #267871);
+  background: linear-gradient(to left, #136a8a , #267871);
+  justify-content: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+#title {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #FEFFFE;
+  padding-top: 30px;
+}
+
+.container {
+  display: table;
+  background-color: white;
+  border-radius: 3px;
+  box-sizing:border-box;
+  padding: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+p {
+  color: #136a8a;
+  font-family: 'Raleway', sans-serif;
+  font-size: 24px;
+}
+
+#quote {
+  font-size: 30px;
+  color: #267871;
+  font-family: 'Raleway', sans-serif;
+}
+
+#generate,
+#twitter {
+  background-color: #136a8a;
+  color: white;
+  border-radius: 3px
+}
+
+footer p{
+  color: #FEFFFE;
+  text-align: center;
+  padding-top: 10px;
+}
+
+a:link {
+  text-decoration: none;
+  color: #FEFFFE;
+}
