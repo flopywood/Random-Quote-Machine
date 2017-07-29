@@ -11,7 +11,7 @@ html, body {
     text-align: center;
     font-family: 'Raleway', sans-serif;
     color: #FEFFFE;
-    padding-top: 150px;
+    padding-top: 125px;
 }
 
 .container {
@@ -40,6 +40,10 @@ p {
     background-color: #136a8a;
     color: white;
     border-radius: 3px
+}
+#buttons{
+  text-align: center;
+  padding: 2%;
 }
 
 footer p {
